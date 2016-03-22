@@ -1,0 +1,5 @@
+git-1.8.3.1-6.el7.x86_64
+linux-firmware-20150904-43.git6ebf5d5.el7.noarch
+crontabs-1.11-6.20121102git.el7.noarch
+net-tools-2.0-0.17.20131004git.el7.x86_64
+xdg-utils-1.1.0-0.16.20120809git.el7.noarch
